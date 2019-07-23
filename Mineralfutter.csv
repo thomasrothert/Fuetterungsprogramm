@@ -1,0 +1,14 @@
+Maske,Kennung,Komponente,Bezeichnung,Kosten ( Euro /dt ),kg Frichmasse,% der Ration                         TS,TS in %,MJ NEL,NDF,Grundfutter NDF,ADF,Lignin,NFC,Staerke,Zucker,Rohprotein,loesl. Protein,Asche,Kalzium,Phosphor,Magnesium,Kalium,Natrium,Schwefel,Kationen,Anionen
+,Min 1,Futterkalk,,,,,95,0,0,0,0,0,0,0,0,0,0,0,0,0,394,0,4,0,5,0
+,Min 2,Natriumbicarbonat,,,,,100,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,27,0
+,Min 3,Viehsalz,,,,,95,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3934,0
+,Min 4,Monocalphos,,,,,97,0,0,0,0,0,0,0,0,0,0,0,1,0,164,0,216,0,61,0
+,Min 5,Mineralfutter Rothert,,,,,95,0,0,0,0,0,0,0,0,0,0,0,1,0,13,0,3,0,16,0
+,Min 6,Gips,,,,,100,0,0,0,0,0,0,0,0,0,0,0,1,0,23,0,0,0,0,0
+,Min 7,Bittersalz,,,,,100,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,0,0,0
+,Min 8,Vitamiral,,,,,100,0,0,0,0,0,0,0,0,0,0,0,1,0,155,0,63,0,105,0
+,Min 9,Trockenstehermin,,,,,100,0,0,0,0,0,0,0,0,0,0,0,1,0,106,0,84,0,526,0
+,Min10,Salvana AP ALL in One Plus,,,,,100,0,0,0,0,0,0,0,0,0,0,46,0,1,0,18,0,13,0,6
+,Min11,Salvana AP ALL in One ,,,,,100,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,15,0,65,0
+,Min12,Salvana AP Classic,,,,,100,0,0,0,0,0,0,0,0,0,0,0,1,0,12,0,3,0,15,0
+,Min13,MgO,,,,,100,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,24,0,0,0
